@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-07T16:43:56 IST" name="Default suite" finished-at="2023-11-07T16:44:20 IST" duration-ms="24038">
+    <groups>
+    </groups>
+    <test started-at="2023-11-07T16:43:56 IST" name="Default test" finished-at="2023-11-07T16:44:20 IST" duration-ms="24038">
+      <class name="TestNG_basics.demo28001">
+        <test-method is-config="true" signature="first()[pri:0, instance:TestNG_basics.demo28001@470734c3]" started-at="2023-11-07T16:43:56 IST" name="first" finished-at="2023-11-07T16:44:03 IST" duration-ms="6542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method signature="mainq()[pri:0, instance:TestNG_basics.demo28001@470734c3]" started-at="2023-11-07T16:44:03 IST" name="mainq" finished-at="2023-11-07T16:44:16 IST" duration-ms="12757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainq -->
+        <test-method is-config="true" signature="last()[pri:0, instance:TestNG_basics.demo28001@470734c3]" started-at="2023-11-07T16:44:16 IST" name="last" finished-at="2023-11-07T16:44:20 IST" duration-ms="4626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- TestNG_basics.demo28001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
