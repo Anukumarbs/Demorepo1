@@ -3,7 +3,6 @@ package mavendemo01;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class mevandemo01 {
 	public static void main(String[] args) throws InterruptedException {
@@ -13,7 +12,7 @@ public class mevandemo01 {
 //		RemoteWebDriver driver = new FirefoxDriver();
 		
 //		WebDriver driver = new FirefoxDriver();
-		WebDriverManager.chromedriver().setup();
+//		WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver = new ChromeDriver();
 		
